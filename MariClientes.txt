@@ -1,0 +1,8 @@
+Nelson
+Comprou: suculenta
+E pagou R$15,00
+##################
+telma
+Comprou: suculenta
+E pagou R$10,00
+##################
